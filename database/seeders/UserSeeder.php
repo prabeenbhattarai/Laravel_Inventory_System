@@ -21,9 +21,9 @@ class UserSeeder extends Seeder
             DB::table('users')->insert([
                 [
                     'name' => 'Super Admin',
-                    'email' => 'prabeenbhattarai7450@gmail.com',
+                    'email' => 'inventory@gmail.com',
                     'email_verified_at' => Carbon::now(),
-                    'password' => Hash::make('prabeen2025!'),
+                    'password' => Hash::make('Inventory2022!'),
                     'account_role' => 1,
                     'is_active' => 1,
                 ],
