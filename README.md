@@ -1,4 +1,4 @@
-# Acculance v4.0.0
+#POS | Designed by Prabin Bhattarai
 
 ## Running Demo Seeder
 
