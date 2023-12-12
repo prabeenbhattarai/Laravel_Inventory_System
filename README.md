@@ -1,4 +1,4 @@
-#POS | Designed by Prabin Bhattarai
+## POS | Designed by Prabin Bhattarai
 
 ## Running Demo Seeder
 
